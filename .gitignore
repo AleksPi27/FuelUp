@@ -1,0 +1,7 @@
+# compiled output
+/dist
+/release
+/node_modules
+
+# IDEs and editors
+.vscode

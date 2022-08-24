@@ -1,0 +1,232 @@
+[
+	{
+		"FuelSupplementId": "3d8df4ff-c640-41c6-9cde-3e29ed5371aa",
+		"Number": "1",
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelSupplementId": "3d010581-72b4-4150-84fc-1c123bf718d0",
+		"Number": "2",
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelSupplementId": "834390d7-3538-4afa-9380-cb53b3b67bb1",
+		"Number": "5",
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelSupplementId": "8903ef85-3095-400a-b8f3-3fd268ccbc6b",
+		"Number": "6",
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelSupplementId": "49a1a29a-169c-44b6-acac-6b3f87c9ddb3",
+		"Number": "7",
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelSupplementId": "8fc3ba83-86fd-41c1-b85b-a363a33ca759",
+		"Number": "1",
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelSupplementId": "295296e6-bba2-4416-8a0f-94366f7795b2",
+		"Number": "2",
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelSupplementId": "f3aacb43-61fd-4f75-b7b1-0f8fa8447549",
+		"Number": "4",
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelSupplementId": "75155a4d-734a-441f-8a28-99901c159054",
+		"Number": "5",
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelSupplementId": "a17c2c88-3fca-4146-ab1a-72f77169ef5c",
+		"Number": "6",
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelSupplementId": "af842b6e-b9a3-41f2-8a1a-24d9feebb8cf",
+		"Number": "1",
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelSupplementId": "6df76021-2668-480f-9855-4b04d9d32598",
+		"Number": "2",
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelSupplementId": "41e0aef6-3c1e-4407-aca2-f99afda7e1f1",
+		"Number": "3",
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelSupplementId": "862311f8-d775-446f-a719-b70adeea3483",
+		"Number": "4",
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelSupplementId": "00e1e120-d4a6-4d24-98d7-17921640a3f6",
+		"Number": "1",
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelSupplementId": "f56d5142-dc5e-459c-9f35-fff0118754df",
+		"Number": "2",
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelSupplementId": "93862867-8875-467e-992e-1ff83417c21a",
+		"Number": "3",
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelSupplementId": "5b4207ef-d389-4d8b-8806-13fa2f61968d",
+		"Number": "1",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "d21e7c13-56d1-4fb2-af9a-00def2251300",
+		"Number": "2",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "df5a381d-b501-4ab5-b529-a7e933ea3303",
+		"Number": "3",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "86687a7b-7ffd-4bf2-852e-3b1e48448efa",
+		"Number": "4",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "8ca28224-7bd8-48b8-ae5a-eab4b308180c",
+		"Number": "5",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "14352695-74d9-4f4f-85c3-4f25cf651653",
+		"Number": "6",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "a9fde201-a4ed-4720-85f7-193eabfc6ce9",
+		"Number": "7",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "d878bf86-4be3-4bae-b7bd-db8a0ee96816",
+		"Number": "8",
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelSupplementId": "7450d79b-0e5a-48be-bca3-5d3f202b3c6e",
+		"Number": "1",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "ceb9a9bd-4406-433c-a688-538965794645",
+		"Number": "2",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "e1f49e16-a07f-4327-bbc2-b6e60551d4c3",
+		"Number": "3",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "f282fa40-9161-4868-be02-f539126eac4d",
+		"Number": "4",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "bcd89eb9-3491-4d14-8f9e-0e50a6e84691",
+		"Number": "5",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "a415cce6-e2c1-40ee-943e-c497ecc398c9",
+		"Number": "6",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "d54e2b78-8d72-4457-b017-a8b7a14ef4c3",
+		"Number": "7",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "c445e309-cc7f-4449-b5f7-a38f2c00adfb",
+		"Number": "8",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "2531e6a8-dbff-404c-bef0-2bb8f43c7735",
+		"Number": "9",
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelSupplementId": "3119bdad-6715-458a-8e0e-5819b45b127d",
+		"Number": "1",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "85db9703-721d-43e1-ad2d-3165705c5aaf",
+		"Number": "2",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "0670cc9b-3ff8-4624-9ce6-141a4b2e506a",
+		"Number": "3",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "09878436-90b6-4b09-b4dc-52d3427a33dd",
+		"Number": "4",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "c0af12a9-673b-42f2-b925-2037a5a6981d",
+		"Number": "5",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "d65a9629-cd18-4e18-ab75-8038b4dbe74a",
+		"Number": "6",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "5f6e0db3-08f9-4507-a280-8e733056384a",
+		"Number": "7",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "60b7dec4-ab10-4a80-8afa-455a581bdb6f",
+		"Number": "8",
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelSupplementId": "c5ce595b-0651-492d-9d09-cd043953b4be",
+		"Number": "1",
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelSupplementId": "3334936a-85b7-4dcc-b4e4-86d415fb9187",
+		"Number": "2",
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelSupplementId": "02266ca4-afe5-4135-936d-8ca759d0a270",
+		"Number": "3",
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelSupplementId": "4d7dea6e-cb30-416d-95dd-5f5f502866f8",
+		"Number": "4",
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	}
+]

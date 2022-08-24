@@ -1,0 +1,2248 @@
+[
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "236c474c-b65f-4646-84ed-7edfe81edf6f",
+		"Id": "1",
+		"Type": "92",
+		"Price": 29,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "928f87a3-697c-4fc6-ab54-3abc6272ff51",
+		"Id": "2",
+		"Type": "95",
+		"Price": 30,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "418e08f6-482f-426b-b7d2-ee54afed880c",
+		"Id": "3",
+		"Type": "98",
+		"Price": 40,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "2a46bcb4-556c-411d-8428-0a0e225d138f",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "8d34a7a9-3bea-4d0c-869a-c9e71cf4a8d6",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 28.8,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "236c474c-b65f-4646-84ed-7edfe81edf6f",
+		"Id": "1",
+		"Type": "92",
+		"Price": 29,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "928f87a3-697c-4fc6-ab54-3abc6272ff51",
+		"Id": "2",
+		"Type": "95",
+		"Price": 30,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "418e08f6-482f-426b-b7d2-ee54afed880c",
+		"Id": "3",
+		"Type": "98",
+		"Price": 40,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "2a46bcb4-556c-411d-8428-0a0e225d138f",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "8d34a7a9-3bea-4d0c-869a-c9e71cf4a8d6",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 28.8,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "32bc9648-2274-437a-8252-3868ee98e34b",
+		"Id": "14",
+		"Type": "92",
+		"Price": 33,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "3615c807-af9d-40ca-987d-b4210e3dc049",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 37,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "f668fcfa-cc95-46da-985c-2bbc6e61351c",
+		"Id": "1",
+		"Type": "92",
+		"Price": 40,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "67916b39-a511-4a88-a84e-a279e7597265",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "c3d09547-b1df-42be-937b-9fd69ed37d4b",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "9c1c6f75-425e-4c1c-a2b8-2d93c071b2d2",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 30,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "236c474c-b65f-4646-84ed-7edfe81edf6f",
+		"Id": "1",
+		"Type": "92",
+		"Price": 29,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "928f87a3-697c-4fc6-ab54-3abc6272ff51",
+		"Id": "2",
+		"Type": "95",
+		"Price": 30,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "418e08f6-482f-426b-b7d2-ee54afed880c",
+		"Id": "3",
+		"Type": "98",
+		"Price": 40,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "2a46bcb4-556c-411d-8428-0a0e225d138f",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "8d34a7a9-3bea-4d0c-869a-c9e71cf4a8d6",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 28.8,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "32bc9648-2274-437a-8252-3868ee98e34b",
+		"Id": "14",
+		"Type": "92",
+		"Price": 33,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "3615c807-af9d-40ca-987d-b4210e3dc049",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 37,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "f668fcfa-cc95-46da-985c-2bbc6e61351c",
+		"Id": "1",
+		"Type": "92",
+		"Price": 40,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "67916b39-a511-4a88-a84e-a279e7597265",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "c3d09547-b1df-42be-937b-9fd69ed37d4b",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "9c1c6f75-425e-4c1c-a2b8-2d93c071b2d2",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 30,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "21020570-2ab4-4372-a614-8893afd442b7",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47.8,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c461d0bf-b72e-447c-8d49-5a5ce689c212",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.7,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "8f6a6ed8-0648-42e1-99a9-6e19fe5d908e",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "ddc90d69-a6fb-40ff-913b-97adaeeda723",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 46.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "a19a5edc-f366-4887-8eb8-04edcdb896b8",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 45.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "1548c009-5e8e-44fd-a8c1-06a1f4c519b8",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 22.3,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "d934e455-4f45-4367-84ed-2d5b95cb450b",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 14.1,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c6ff971e-e624-41e7-abba-40fe10feae3d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 46.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "236c474c-b65f-4646-84ed-7edfe81edf6f",
+		"Id": "1",
+		"Type": "92",
+		"Price": 29,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "928f87a3-697c-4fc6-ab54-3abc6272ff51",
+		"Id": "2",
+		"Type": "95",
+		"Price": 30,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "418e08f6-482f-426b-b7d2-ee54afed880c",
+		"Id": "3",
+		"Type": "98",
+		"Price": 40,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "2a46bcb4-556c-411d-8428-0a0e225d138f",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "8d34a7a9-3bea-4d0c-869a-c9e71cf4a8d6",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 28.8,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "32bc9648-2274-437a-8252-3868ee98e34b",
+		"Id": "14",
+		"Type": "92",
+		"Price": 33,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "3615c807-af9d-40ca-987d-b4210e3dc049",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 37,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "f668fcfa-cc95-46da-985c-2bbc6e61351c",
+		"Id": "1",
+		"Type": "92",
+		"Price": 40,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "67916b39-a511-4a88-a84e-a279e7597265",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "c3d09547-b1df-42be-937b-9fd69ed37d4b",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "9c1c6f75-425e-4c1c-a2b8-2d93c071b2d2",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 30,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "21020570-2ab4-4372-a614-8893afd442b7",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47.8,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c461d0bf-b72e-447c-8d49-5a5ce689c212",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.7,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "8f6a6ed8-0648-42e1-99a9-6e19fe5d908e",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "ddc90d69-a6fb-40ff-913b-97adaeeda723",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 46.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "a19a5edc-f366-4887-8eb8-04edcdb896b8",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 45.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "1548c009-5e8e-44fd-a8c1-06a1f4c519b8",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 22.3,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "d934e455-4f45-4367-84ed-2d5b95cb450b",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 14.1,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c6ff971e-e624-41e7-abba-40fe10feae3d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 46.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "5630d4e5-6473-46d8-ac12-3a7d18ee4d37",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.7,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "0c5e7295-ebd8-4b08-85f7-a5cb0b6c8ec4",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45.6,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cc7c6512-7695-45b1-bd0d-3b5be020cf5d",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47.8,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cb620649-9c2f-47e7-b3bf-4449b3a4e7f8",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 45.2,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cd1ca562-df95-44d6-931b-2c3647cbbe59",
+		"Id": "8",
+		"Type": "95",
+		"Price": 46.6,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "38614602-b005-445d-a80a-b9e3b15303e5",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 46.2,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "060ca8f7-4e61-4cb3-a0b2-135c118e1d02",
+		"Id": "15",
+		"Type": "АЭРО",
+		"Price": 50.8,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	}
+][
+	{
+		"FuelId": "860e0f7b-87c4-4861-9e15-449ea9fed489",
+		"Id": "1",
+		"Type": "92",
+		"Price": 52,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "86a6610b-b0e7-45d8-b01f-65965c07f896",
+		"Id": "2",
+		"Type": "95",
+		"Price": 51.8,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "46592cba-7ac8-497c-8dba-25c1692629f4",
+		"Id": "3",
+		"Type": "98",
+		"Price": 23.23,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "b9c99046-486e-47e3-af67-8a2349703e89",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 24.24,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "6ad7b963-ceb9-44d4-a7b9-855b4dd4eb4f",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 20.25,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "972d3aed-ab00-4908-b8e8-6ac2b54074cd",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 18.18,
+		"StationId": "fb2920d5-b39f-4188-b620-06a20bc990c6"
+	},
+	{
+		"FuelId": "5759ada2-af3d-4212-95fc-0c92e6a26039",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.2,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "06896f23-957e-4c01-92fd-c745c26e8461",
+		"Id": "2",
+		"Type": "95",
+		"Price": 46,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "6245ddd1-0d1e-4384-9fa8-101ecfd81079",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 40,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "cce6f377-4270-44b1-8041-52694bf9ff40",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 19,
+		"StationId": "be0fc243-1aa2-48d2-bd6d-ab2a3cfa9adf"
+	},
+	{
+		"FuelId": "91ef5701-d039-431d-8f98-0b36b8cca509",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 50.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "abfc14b1-d59d-4d8d-a510-d60a960033ef",
+		"Id": "1",
+		"Type": "92",
+		"Price": 44.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "df78c176-282f-40ed-8bee-0552e3c77a71",
+		"Id": "4",
+		"Type": "100",
+		"Price": 56,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "95972725-f4a8-46b8-9df1-94e1cfba0afd",
+		"Id": "2",
+		"Type": "95",
+		"Price": 47,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "b25dad55-b503-4628-ab4e-92484c249c68",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 55.5,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "23e5fd42-5629-4d62-a47f-441ce77134b9",
+		"Id": "3",
+		"Type": "98",
+		"Price": 53.4,
+		"StationId": "a4376045-6945-490c-86bb-212c687bf8de"
+	},
+	{
+		"FuelId": "5a51890e-3afa-458c-9497-98d1394af2cf",
+		"Id": "1",
+		"Type": "92",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "548410b5-ac4b-484e-b160-03069820048a",
+		"Id": "2",
+		"Type": "95",
+		"Price": 35,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "d8dc391e-5391-45e4-ad6e-6ae1d82d605d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 43.56,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "584f8ab7-9999-4673-bab4-c5a62b03b697",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 42.7,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "488b849e-d39c-4acb-b745-dd650e569f29",
+		"Id": "7",
+		"Type": "92",
+		"Price": 42.6,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "c780234c-f19a-4f46-b2d8-d6f23de06926",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 43.9,
+		"StationId": "6cff6e8a-eddf-47dd-a58a-c8691ca2ba4a"
+	},
+	{
+		"FuelId": "236c474c-b65f-4646-84ed-7edfe81edf6f",
+		"Id": "1",
+		"Type": "92",
+		"Price": 29,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "928f87a3-697c-4fc6-ab54-3abc6272ff51",
+		"Id": "2",
+		"Type": "95",
+		"Price": 30,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "418e08f6-482f-426b-b7d2-ee54afed880c",
+		"Id": "3",
+		"Type": "98",
+		"Price": 40,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "2a46bcb4-556c-411d-8428-0a0e225d138f",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "8d34a7a9-3bea-4d0c-869a-c9e71cf4a8d6",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 28.8,
+		"StationId": "7bd74b31-2e24-45ce-8577-9e9c61931a99"
+	},
+	{
+		"FuelId": "32bc9648-2274-437a-8252-3868ee98e34b",
+		"Id": "14",
+		"Type": "92",
+		"Price": 33,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "3615c807-af9d-40ca-987d-b4210e3dc049",
+		"Id": "6",
+		"Type": "ДТ",
+		"Price": 37,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "f668fcfa-cc95-46da-985c-2bbc6e61351c",
+		"Id": "1",
+		"Type": "92",
+		"Price": 40,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "67916b39-a511-4a88-a84e-a279e7597265",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "c3d09547-b1df-42be-937b-9fd69ed37d4b",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "9c1c6f75-425e-4c1c-a2b8-2d93c071b2d2",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 30,
+		"StationId": "9213a966-c8e1-493a-98e1-0d5c6a75c049"
+	},
+	{
+		"FuelId": "21020570-2ab4-4372-a614-8893afd442b7",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47.8,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c461d0bf-b72e-447c-8d49-5a5ce689c212",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.7,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "8f6a6ed8-0648-42e1-99a9-6e19fe5d908e",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "ddc90d69-a6fb-40ff-913b-97adaeeda723",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 46.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "a19a5edc-f366-4887-8eb8-04edcdb896b8",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 45.2,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "1548c009-5e8e-44fd-a8c1-06a1f4c519b8",
+		"Id": "12",
+		"Type": "Пропан",
+		"Price": 22.3,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "d934e455-4f45-4367-84ed-2d5b95cb450b",
+		"Id": "13",
+		"Type": "Метан",
+		"Price": 14.1,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "c6ff971e-e624-41e7-abba-40fe10feae3d",
+		"Id": "8",
+		"Type": "95",
+		"Price": 46.6,
+		"StationId": "110816a1-900f-4716-b2a5-2a4e7af9d7ef"
+	},
+	{
+		"FuelId": "5630d4e5-6473-46d8-ac12-3a7d18ee4d37",
+		"Id": "1",
+		"Type": "92",
+		"Price": 41.7,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "0c5e7295-ebd8-4b08-85f7-a5cb0b6c8ec4",
+		"Id": "2",
+		"Type": "95",
+		"Price": 45.6,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cc7c6512-7695-45b1-bd0d-3b5be020cf5d",
+		"Id": "3",
+		"Type": "98",
+		"Price": 47.8,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cb620649-9c2f-47e7-b3bf-4449b3a4e7f8",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 45.2,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "cd1ca562-df95-44d6-931b-2c3647cbbe59",
+		"Id": "8",
+		"Type": "95",
+		"Price": 46.6,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "38614602-b005-445d-a80a-b9e3b15303e5",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 46.2,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "060ca8f7-4e61-4cb3-a0b2-135c118e1d02",
+		"Id": "15",
+		"Type": "АЭРО",
+		"Price": 50.8,
+		"StationId": "b4ffc497-e48e-4f5a-bfde-6b87eaa2812f"
+	},
+	{
+		"FuelId": "c192d377-873a-440e-b989-8a6086d13384",
+		"Id": "1",
+		"Type": "92",
+		"Price": 43.9,
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelId": "096f1127-d71c-4df8-9214-63ff9e721940",
+		"Id": "2",
+		"Type": "95",
+		"Price": 50.9,
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelId": "1c272c32-d9f0-444c-b819-d6a6f582a3df",
+		"Id": "5",
+		"Type": "ДТ",
+		"Price": 50.1,
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	},
+	{
+		"FuelId": "8d68fdb6-442d-464c-86a7-f24d753183f4",
+		"Id": "11",
+		"Type": "ДТ",
+		"Price": 51.4,
+		"StationId": "a98e3e16-cc51-4e63-b61f-dfb7ba95287f"
+	}
+]
