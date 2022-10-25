@@ -28,7 +28,7 @@ export class FuelPriceDb{
     StationId: string;
 } 
 
-export class FuelandFuelSupplement {
+export class FuelandFuelSupplementDb {
     FuelId: string;
     FuelSupplementId: string;
 }

@@ -1,10 +1,9 @@
 import { Injectable, Logger } from '@nestjs/common';
 import axios from 'axios';
 import { StationDb, StationResponse } from './station.interface';
-import { open, appendFile } from 'fs';
-import { generateUuidV4 } from 'src/common/common.utils';
+import { createFile, generateUuidV4 } from 'src/common/common.utils';
 import { FuelSupplementDb } from 'src/fuelSupplement/fuelSupplement.interface';
-import { FuelSupplementService } from 'src/fuelSupplement/fuelSupplement.service';
+import {saveToFile} from '../common/common.utils';
 require('dotenv').config();
 
 @Injectable()
@@ -12,14 +11,8 @@ export class StationService {
   private readonly logger: Logger = new Logger(StationService.name);
   private stations: StationResponse[] = [];
   private stationstoSave: StationDb[]=[];
-  constructor(private readonly fuelSupplementService: FuelSupplementService) {
-    open(process.env.STATIONS_FILE, 'w', (err) => {
-      if (err) {
-        this.logger.error(
-          `Error while creating file for saving stations: ${err}`,
-        );
-      }
-    });
+  constructor() {
+    createFile(process.env.STATIONS_FILE);
   }
 
   async getStations(): Promise<void> {
@@ -59,32 +52,18 @@ export class StationService {
             `This station with id - ${station.Id} doesn't have any fuel supplements`,
           );
         }
-        if (station.Fuels){
+        if (!station.Fuels){
             this.logger.log(`This station with id - ${station.Id} doesn't have any fuels`);
         }
         const {Columns, Fuels, ...stationtoSave} =station;
         this.stationstoSave.push(stationtoSave as StationDb);
       });
 
-      this.fuelSupplementService.saveFuelSupplementsToFile(fuelSupplements);
-      this.saveStations();
+      saveToFile(process.env.FUEL_SUPPLEMENTS_FILE, fuelSupplements);
+      saveToFile(process.env.STATIONS_FILE, this.stationstoSave);
     } catch (err) {
       this.logger.error(`Error occured while saving fuel stations: ${err}`);
       throw new Error(err);
     }
-  }
-
-  saveStations(): void {
-    this.logger.log(`Started saving stations`);
-    appendFile(
-      process.env.STATIONS_FILE,
-      JSON.stringify(this.stationstoSave, null, '\t'),
-      (err) => {
-        if (err) {
-          this.logger.error(`Error while saving stations to the file: ${err}`);
-        }
-      },
-    );
-    this.logger.log(`Finished saving stations`);
   }
 }
